@@ -1,0 +1,35 @@
+div {
+  margin: auto;
+}
+
+.panArriba {
+  height: 60px;
+  width: 200px;
+  background-color: rgb(245, 165, 45);
+  border-radius: 120px 120px 10px 10px;
+  border-bottom: solid 8px rgb(208, 141, 40) ;
+}
+
+.cheddar {
+    height: 5px;
+    width: 240px;
+    background-color: rgb(255, 140, 0);
+}
+
+
+
+
+.burger {
+  height: 20px;
+  width: 230px;
+  background-color: rgb(123, 34, 7);
+  border-radius: 3px;
+}
+
+.panAbajo {
+  height: 20px;
+  width: 200px;
+  background-color: rgb(245, 165, 45);
+  border-radius: 3px;
+  border-top: solid 4px rgb(208, 141, 40) ;
+}
